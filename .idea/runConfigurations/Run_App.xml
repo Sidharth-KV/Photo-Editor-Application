@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run App" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Package.app" />
+    <module name="Photo-Editor-Application" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;D:\JAVA projects\Photo-Editor-Application\src\lib&quot;  --add-modules javafx.controls,javafx.fxml -Dprism.order=sw --add-opens=java.base/java.lang=ALL-UNNAMED -Djava.library.path=&quot;D:\JAVA projects\Photo-Editor-Application\src\openjfx-21.0.7_windows-x64_bin-sdk\javafx-sdk-21.0.7\bin&quot;" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
